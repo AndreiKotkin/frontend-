@@ -1,2 +1,2 @@
 # frontend
-andreikotkin.github.io/frontend-/
+https://andreikotkin.github.io/frontend-/
